@@ -29,8 +29,16 @@ const peopleList = json.people
               socials.push(`[${social}](${person[social.toLowerCase()]})`);
             }
           });
+
+          const flags = {
+              "chile": "🇨🇱",
+              "dinamarca": "🇩🇰",
+              "portugal": "🇵🇹"
+          };
+            
+          const location = `${person.city} / ${person.country} ${flags[person.country.trim().toLowerCase()]}`;
       
-          return `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person.preferences.join(", ")}|`;
+          return `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${location}|${person.preferences.join(", ")}|`;
         }
     )
     .join("\n");
