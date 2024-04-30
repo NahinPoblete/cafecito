@@ -19,34 +19,37 @@ El archivo `README.md` se genera automáticamente, no se debe modificar.
 
 Si necesitas ayuda puedes preguntar en el [Slack](https://join.slack.com/t/devschile/shared_invite/zt-28po3lsc2-XZd7gJzd_sKl6RJqnYqFkw).
 
-### Preferencias
+### Emojis / Emoticons
 
 En la columna preferencias puedes usar emojis que definan lo que te gusta, si es que se juntan en persona.
 Puede ser cualquier emoji pero se recomiendan los siguientes.
 
-- 👥 : Modalidad Presencial
-- 💻 : Modalidad Online
-- 🌱 : Vegano
-- 🍖 : No Vegano
-- 🍺 : Cerveza
-- 🍷 : Vino
-- 🚭 : No Fumador
-- 🍜 : Comida Asiática
-- 🍕 : Pizzas
-- 🌯 : Wraps
-- 🫖 : Té
-- ☕ : Café
-- 🧉 : Mate
-- 🍹 : Jugo
-- 🥂 : Alcohol
-- 🚰 : Agua
-- 🍩 : Donas
-- 🍟 : Papitas
-- 🌭 : Completos
-- 🍿 : Cine
-- 🍔 : Hamburguesa
-- 😶‍🌫️ : 420
-  
+-   👥 : Modalidad Presencial
+-   💻 : Modalidad Online
+-   🌱 : Vegano
+-   🍖 : No Vegano
+-   🍺 : Cerveza
+-   🍷 : Vino
+-   🚭 : No Fumador
+-   🍜 : Comida Asiática
+-   🍕 : Pizzas
+-   🌯 : Wraps
+-   🫖 : Té
+-   ☕ : Café
+-   🧉 : Mate
+-   🍹 : Jugo
+-   🥂 : Alcohol
+-   🚰 : Agua
+-   🍩 : Donas
+-   🍟 : Papitas
+-   🌭 : Completos
+-   🍿 : Cine
+-   🍔 : Hamburguesa
+-   😶‍🌫️ : 420
+
+También la lista disponible de **Emoticons**:
+
+-   [https://github.com/devschile/emoticons](https://github.com/devschile/emoticons)
 
 ## 🌿 ¿Cómo me quito?
 

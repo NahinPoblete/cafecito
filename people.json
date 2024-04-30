@@ -20,7 +20,8 @@
                 "Linux",
                 "Emacs"
             ],
-            "preferences": ["🌱", "🫖", "🍜", "👥", "💻"]
+            "emojis": ["🌱", "🫖", "🍜", "👥", "💻"],
+            "emoticons": [":clsource:", ":elixir:", ":emacs:"]
         },
         {
             "name": "Ivan Mir",
@@ -33,7 +34,8 @@
             "scheduling": "https://devschile.slack.com/team/UDBJAJTCL",
             "online-only": false,
             "topics": ["aplicaciones", "macOS", "iOS", "Android", "C#", ".NET"],
-            "preferences": ["👥", "💻"]
+            "emojis": ["👥", "💻"],
+            "emoticons": []
         },
         {
             "name": "David Lay",
@@ -59,7 +61,8 @@
                 "Software Teams",
                 "Node.js"
             ],
-            "preferences": ["👥", "💻", "🤖", "🏡", "🔨", "🧰", "🪚"]
+            "emojis": ["👥", "💻", "🤖", "🏡", "🔨", "🧰", "🪚"],
+            "emoticons": []
         },
         {
             "name": "Pedro Araya",
@@ -78,7 +81,8 @@
                 "React",
                 "Rock climbing / Bouldering"
             ],
-            "preferences": ["🍕", "🧗‍♂️", "🍜", "💻", "🥂"]
+            "emojis": ["🍕", "🧗‍♂️", "🍜", "💻", "🥂"],
+            "emoticons": []
         },
         {
             "name": "Héctor Palma Téllez",
@@ -99,7 +103,8 @@
                 "Languages",
                 "Communication"
             ],
-            "preferences": ["🌱", "🫖", "🍜", "👥", "💻", "🚭"]
+            "emojis": ["🌱", "🫖", "🍜", "👥", "💻", "🚭"],
+            "emoticons": []
         },
         {
             "name": "Ignacio Rodriguez",
@@ -130,7 +135,7 @@
                 "LoRa / LoRaWAN & descentralized communications (mesh networking)",
                 "Smart cities and weather monitoring"
             ],
-            "preferences": [
+            "emojis": [
                 "🍖",
                 "🍺",
                 "🍩",
@@ -143,7 +148,8 @@
                 "🍜",
                 "🫖",
                 "💻"
-            ]
+            ],
+            "emoticons": []
         },
         {
             "name": "Rodrigo Carmona",
@@ -166,7 +172,8 @@
                 "Software Development",
                 "Team Building"
             ],
-            "preferences": ["👥", "💻", "🍺", "🚭", "🍕", "🫖", "☕", "🌭"]
+            "emojis": ["👥", "💻", "🍺", "🚭", "🍕", "🫖", "☕", "🌭"],
+            "emoticons": []
         },
         {
             "name": "Iván Nawrath",
@@ -186,7 +193,7 @@
                 "Database",
                 "React"
             ],
-            "preferences": [
+            "emojis": [
                 "🍖",
                 "🍺",
                 "🍩",
@@ -197,7 +204,8 @@
                 "🚭",
                 "🌯",
                 "🍜"
-            ]
+            ],
+            "emoticons": []
         },
         {
             "city": "Copenhagen",
@@ -208,10 +216,11 @@
             "linkedin": "https://www.linkedin.com/in/salgadoadrian/",
             "mastodon": "https://devschile.social/@lasagnaandroid",
             "name": "Adrián Salgado (Lasagna)",
-            "preferences": ["💻", "🚭"],
             "scheduling": "https://devschile.slack.com/team/U0RA46KCP",
             "title": "Software Engineer",
-            "topics": ["De todo lo que quieran hablar"]
+            "topics": ["De todo lo que quieran hablar"],
+            "emojis": ["💻", "🚭"],
+            "emoticons": []
         }
     ]
 }
