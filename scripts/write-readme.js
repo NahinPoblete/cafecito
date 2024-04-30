@@ -18,7 +18,7 @@ json.people.sort(function (a, b) {
 });
 
 // Generate with proper formating
-const header = `|Nombre|Social|Ocupación|Temas|Ubicación|Preferencias|
+const header = `|Nombre|Social|Ocupación|Temas|Ubicación|Emojis|
 |---|---|---|---|---|---|
 `;
 
@@ -54,7 +54,7 @@ const peopleList = json.people
 
         const location = `${person.city} / ${person.country} ${flags[person.country.trim().toLowerCase()]}`;
 
-        return `|**[${person.name}](${person.scheduling})**|${socials.join(", ")}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${location}|${person.preferences.join(", ")} ${person.emoticons.map((item) => word2emoticon(item)).join(",")}|`;
+        return `|**[${person.name}](${person.scheduling})**|${socials.join(", ")}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${location}|${person.emojis.join(", ")} ${person.emoticons.map((item) => word2emoticon(item)).join(",")}|`;
     })
     .join("\n");
 
