@@ -167,6 +167,37 @@
                 "Team Building"
             ],
             "preferences": ["👥", "💻", "🍺", "🚭", "🍕", "🫖", "☕", "🌭"]
+        },
+        {
+            "name": "Iván Nawrath",
+            "title": "Software Engineer",
+            "company": "https://www.capitaria.com",
+            "city": "Concepción",
+            "country": "Chile",
+            "languages": ["Chilean Spanish"],
+            "online-only": false,
+            "scheduling": "https://devschile.slack.com/team/U3XP842H1",
+            "mastodon": "https://devschile.slack.com/team/U3XP842H1",
+            "topics": [
+                "Python",
+                "Django",
+                "Linux",
+                "Backend",
+                "Database",
+                "React"
+            ],
+            "preferences": [
+                "🍖",
+                "🍺",
+                "🍩",
+                "🍔",
+                "🌭",
+                "🍕",
+                "🥂",
+                "🚭",
+                "🌯",
+                "🍜"
+            ]
         }
     ]
 }
