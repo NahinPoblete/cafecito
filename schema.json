@@ -58,6 +58,22 @@
 					"description": "Twitter account URL",
 					"$ref": "#/definitions/validURL"
 				},
+				"mastodon":  {
+					"description": "Mastodon account URL",
+					"$ref": "#/definitions/validURL"
+				},
+				"github":  {
+					"description": "Github account URL",
+					"$ref": "#/definitions/validURL"
+				},
+				"gitlab":  {
+					"description": "Gitlab account URL",
+					"$ref": "#/definitions/validURL"
+				},
+				"codeberg":  {
+					"description": "Codeberg account URL",
+					"$ref": "#/definitions/validURL"
+				},
 				"scheduling":  {
 					"description": "Scheduling platform URL or mailto link",
 					"$ref": "#/definitions/validScheduling"
