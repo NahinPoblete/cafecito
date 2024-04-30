@@ -33,7 +33,8 @@ const peopleList = json.people
           const flags = {
               "chile": "🇨🇱",
               "dinamarca": "🇩🇰",
-              "portugal": "🇵🇹"
+              "portugal": "🇵🇹",
+              "brasil": "🇧🇷"
           };
             
           const location = `${person.city} / ${person.country} ${flags[person.country.trim().toLowerCase()]}`;
