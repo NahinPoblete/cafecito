@@ -11,7 +11,7 @@ o simplemente compartir un rato buena onda.
 
 |Nombre|Social|Ocupación|Temas|Ubicación|Preferencias|
 |---|---|---|---|---|---|
-|**[Adrián Salgado aka Lasagna](https://devschile.slack.com/team/U0RA46KCP)**|[LinkedIn](https://www.linkedin.com/in/salgadoadrian/), [Mastodon](https://devschile.social/@lasagnaandroid)|Software Engineer en https://gowish.com|De todo lo que quieran hablar.|Copenhagen / Dinamarca 🇩🇰|💻, 🚭|
+|**[Adrián Salgado (Lasagna)](https://devschile.slack.com/team/U0RA46KCP)**|[LinkedIn](https://www.linkedin.com/in/salgadoadrian/), [Mastodon](https://devschile.social/@lasagnaandroid)|Software Engineer en https://gowish.com|De todo lo que quieran hablar.|Copenhagen / Dinamarca 🇩🇰|💻, 🚭|
 |**[Camilo Castro](https://devschile.slack.com/team/U0SCJ8831)**|[Mastodon](https://genserver.social/clsource)|Software Engineer en https://ninjas.cl|Software Engineering, Elixir, Software Libre, Backend, Phoenix, Erlang, Linux, Emacs.|V Región / Chile|🌱, 🫖, 🍜, 👥, 💻|
 |**[David Lay](https://devschile.slack.com/team/U0U9FBTK3)**|[Mastodon](https://devschile.social/@davidlaym)|Software Engineer en https://www.leniolabs.com/|Software Design, Monitoring, Performance, Software Architecture, Software Libre, Leadership, Consulting, Software Industry, Security, Software Teams, Node.js.|Santiago / Chile|👥, 💻, 🤖, 🏡, 🔨, 🧰, 🪚|
 |**[Héctor Palma Téllez](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2V_tFtUn7UZnDuyL_mk79FGM9uydaE0K1xAvbD2unotJlBC4pvBfNsCe65AqUfK2gGAf5qee7X)**|[LinkedIn](https://www.linkedin.com/in/hectorpalmatellez/)|Design Engineer en https://devschile.cl/|Design Systems, Storybook, Work Culture, Angular, TypeScript, Languages, Communication.|Santiago / Chile|🌱, 🫖, 🍜, 👥, 💻, 🚭|
@@ -19,7 +19,7 @@ o simplemente compartir un rato buena onda.
 |**[Ivan Mir](https://devschile.slack.com/team/UDBJAJTCL)**|[Mastodon](https://mas.to/@ivmirx)|Independiente en QotoQot|aplicaciones, macOS, iOS, Android, C#, .NET.|Valdivia / Chile|👥, 💻|
 |**[Iván Nawrath](https://devschile.slack.com/team/U3XP842H1)**|[Mastodon](https://devschile.slack.com/team/U3XP842H1)|Software Engineer en https://www.capitaria.com|Python, Django, Linux, Backend, Database, React.|Concepción / Chile|🍖, 🍺, 🍩, 🍔, 🌭, 🍕, 🥂, 🚭, 🌯, 🍜|
 |**[Pedro Araya](https://devschile.slack.com/team/U0SCJ8831)**|[Github](https://github.com/pedroFP)|Full Stack Developer en https://vinkodigital.com/|Ruby on Rails, Backend, Work Culture, React, Rock climbing / Bouldering.|Lisboa / Portugal|🍕, 🧗‍♂️, 🍜, 💻, 🥂|
-|**[Rodrigo Carmona](https://devschile.slack.com/team/U8N65AW3Z)**|[LinkedIn](https://www.linkedin.com/in/rcarmonad/)|Solutions Architect en https://www.kimn-it.cl/|Security, Java, Spring, Coffee, Parenting, Sofrware Architecture, Software development, Team Building.|Santiago / Chile|👥, 💻, 🍺, 🚭, 🍕, 🫖, ☕, 🌭|
+|**[Rodrigo Carmona](https://devschile.slack.com/team/U8N65AW3Z)**|[LinkedIn](https://www.linkedin.com/in/rcarmonad/)|Solutions Architect en https://www.kimn-it.cl/|Security, Java, Spring, Coffee, Parenting, Software Architecture, Software Development, Team Building.|Santiago / Chile|👥, 💻, 🍺, 🚭, 🍕, 🫖, ☕, 🌭|
 
 ## 🍰 ¿Cómo me añado?
 
