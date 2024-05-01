@@ -221,6 +221,31 @@
             "topics": ["De todo lo que quieran hablar"],
             "emojis": ["💻", "🚭"],
             "emoticons": []
-        }
+        },
+        {
+            "name": "Jorge Epuñan H.",
+            "title": "Subgerente Front-end y ex-admin",
+            "company": "https://www.devschile.cl",
+            "city": "João Pessoa",
+            "country": "Brasil",
+            "languages": ["Español", "Português", "English"],
+            "github": "https://github.com/juanbrujo",
+            "scheduling": "https://devschile.slack.com/team/U0R6AKR0Q",
+            "online-only": true,
+            "topics": [
+                "Software Engineering",
+                "Front-end",
+                "Open Source",
+                "Liderazgo",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "OSX",
+                "Cerveza",
+                "Vino"
+            ],
+            "emojis": ["👥", "💻"],
+            "emoticons": []
+        },
     ]
 }
