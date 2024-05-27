@@ -246,6 +246,44 @@
             ],
             "emojis": ["👥", "💻"],
             "emoticons": []
+        },
+        {
+            "name": "Nahin Poblete",
+            "title": "Ingeniero de Desarrollo  - Freelancer",
+            "company": "",
+            "city": "Rancagua",
+            "country": "Chile",
+            "languages": ["Español"],
+            "github": "https://github.com",
+            "scheduling": "",
+            "online-only": true,
+            "topics": [
+                "Software Engineering",
+                "Front-end",
+                "Back-end",
+                "Open Source",
+                "Liderazgo",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Java",
+                "C#",
+                "Vb.Net",
+                "SQL",
+                "DBA"
+            ],
+            "emojis": ["🍖",
+                "🍺",
+                "🥃",
+                "🍔",
+                "🌭",
+                "🍕",
+                "🥂",
+                "🚭",
+                "🌯",
+                "🍜",
+                "💻"],
+            "emoticons": []
         }
     ]
 }
